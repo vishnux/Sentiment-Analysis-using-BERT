@@ -10,9 +10,15 @@ Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jens
 
 The BERT model is used to perform sentiment analysis on the dataset. The model is trained on the dataset and then used to classify the sentiment of each tweet in the dataset as anger, disgust, happiness, surprise or sadness. The results of the sentiment analysis are then used to determine the overall consumer sentiment towards arts and cultural experiences in British museums.
 
-# Installation
+## Installation
 To run this project, you need to install the following dependencies:
 
 * Python 3.6+
 * PyTorch
 * Transformers
+
+## Results
+The sentiment analysis results show the overall consumer sentiment towards arts and cultural experiences in British museums. The results can be used to identify areas where improvements can be made to enhance the visitor experience and increase visitor satisfaction.
+
+## Conclusion
+Sentiment analysis using the BERT model can be a useful tool for analyzing consumer sentiment towards arts and cultural experiences in British museums. The results can be used to identify areas for improvement and enhance the overall visitor experience.
